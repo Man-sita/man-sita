@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-### 🌱 I’m currently learning: 
-> ### Automation testing 🔧 
 ### 👯 I’m looking to collaborate on: 
 > ### Manual QA projects 
+### 🌱 I’m currently learning: 
+> ### Automation testing 🔧 
 ### 🤔 I’m looking for help with: 
 > ### Python 🐍 
 ### 💬 Ask me about: 
