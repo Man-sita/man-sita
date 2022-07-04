@@ -1,18 +1,14 @@
-***
+## Hi there 👋
 
-# Hi there 👋
-
-## 🌱 I’m currently learning: 
+### 🌱 I’m currently learning: 
 > ### Automation testing 🔧 
-## 👯 I’m looking to collaborate on: 
+### 👯 I’m looking to collaborate on: 
 > ### Manual QA projects 
-## 🤔 I’m looking for help with: 
+### 🤔 I’m looking for help with: 
 > ### Python 🐍 
-## 💬 Ask me about: 
+### 💬 Ask me about: 
 > ### SDLC, Agile methodologies 
-## 📫 How to reach me: 
+### 📫 How to reach me: 
 > ### mansi.taluja@hotmail.com
-## 😄 Pronouns: 
+### 😄 Pronouns: 
 > ### She/her
-
-***
